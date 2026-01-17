@@ -6,9 +6,6 @@ layout: home
 ---
 
 [//]:![image](assets/images/invite.png)
-<div id="container1">
-<img src="/assets/images/invite.png" alt="drawing" width="1000" style="vertical-align:top;margin-bottom:30px"/>
-</div>
-
+![alt text](https://github.com/whelanandmulhair/whelanandmulhair/blob/main/invite.jpg?raw=true)
 Hello world
 
