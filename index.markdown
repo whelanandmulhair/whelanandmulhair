@@ -5,9 +5,9 @@
 layout: home
 ---
 
-[//]:![image](assets/images/invite.pdf)
+[//]:![image](assets/images/invite.png)
 <div id="container1">
-<img src="/assets/images/invite.pdf" alt="drawing" width="1000" style="vertical-align:top;margin-bottom:30px"/>
+<img src="/assets/images/invite.png" alt="drawing" width="1000" style="vertical-align:top;margin-bottom:30px"/>
 </div>
 
 Hello world
