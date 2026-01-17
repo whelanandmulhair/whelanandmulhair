@@ -5,8 +5,6 @@
 layout: default
 ---
 
-[//]:![image](assets/images/invite.png)
-![alt text](https://github.com/whelanandmulhair/whelanandmulhair/blob/main/invite.jpg?raw=true)
 
 <body>
 <h1>Date & time</h1>
@@ -15,13 +13,14 @@ layout: default
     how big of a splash I can make.</p>
 
 <h1>Location</h1>
-<p>The reception will be held in Distant Hills Brewery. This is a 5 minute walk from our house. Will have a room booked in the upstairs section, so there will be stairs there.</p>
-  <p> Parking is limited near our house .</p>
+<p>The reception will be held in [Distant Hills Brewery](https://maps.app.goo.gl/x9Z9ja2NDPyBAEiV7). This is a 5 minute walk from [our house](https://maps.app.goo.gl/DtEAmho2y8iPSxwf8). The reception will be held in the upstairs section of the brewery, so there will be stairs there. Buffet style food will be served from 7pm.</p>
+  <p> Parking is limited near our house, there is a [small car park](https://maps.app.goo.gl/AFxA2ZwbJrud6p197) nearby, otherwise .</p>
 
-<iframe src="https://maps.app.goo.gl/AFxA2ZwbJrud6p197" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <h1>Accommodation</h1>
 <p>Glossop is not a very large town, but there is accommodation available through b&bs (e.g. on booking.com) and a Travelodge hotel (~20 min walk from our house).</p>
+  <p> Alternatively, Manchester city is 30 mins by train from Glossop (every half hour) and obviously has a lot more accommodation options.</p>
+
 
 <h1>Dress code</h1>
 <p>Most of my projects are from tutorials given by Brackeys.</p>
