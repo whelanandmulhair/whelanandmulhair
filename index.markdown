@@ -7,5 +7,7 @@ layout: home
 
 [//]:![image](assets/images/invite.png)
 ![alt text](https://github.com/whelanandmulhair/whelanandmulhair/blob/main/invite.jpg?raw=true)
+
 Hello world
 
+This is a page to provide details on the event.
