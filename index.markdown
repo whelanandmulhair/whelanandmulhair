@@ -10,13 +10,13 @@ layout: default
 <h1>Date & time</h1>
 <p>Our party will be held in Glossop on 6th June 2026, with reception starting from 7pm.</p>
 
-  <p>There will be casual drop-in drinks at <a href="https://maps.app.goo.gl/DtEAmho2y8iPSxwf8"> our house </a> (4 Thorpe street, SK137RW).</p>
+  <p>There will be casual drop-in drinks from 4-7pm at <a href="https://maps.app.goo.gl/DtEAmho2y8iPSxwf8"> our house </a> (4 Thorpe street, SK137RW).</p>
   <p>(Our wedding will be earlier in the day and family only)</p> 
 
 <h1>Location</h1>
-<p>The reception will be held in <a href="https://maps.app.goo.gl/x9Z9ja2NDPyBAEiV7"> Distant Hills Brewery</a>, a 5 minute walk from <a href="https://maps.app.goo.gl/DtEAmho2y8iPSxwf8"> our house</a>. Please not the reception will be held in the upstairs section of the brewery (no lift).
+<p>The reception will be held in <a href="https://maps.app.goo.gl/x9Z9ja2NDPyBAEiV7"> Distant Hills Brewery</a>, a 5 minute walk from <a href="https://maps.app.goo.gl/DtEAmho2y8iPSxwf8"> our house</a>. Please note the reception will be held in the upstairs section of the brewery (no lift).
   <p> Buffet style food will be served from 7pm. <b>If you have any dietary requests/allergies please let us know</b>.</p>
-  <p> Parking is limited near our house, there is a <a href="https://maps.app.goo.gl/AFxA2ZwbJrud6p197"> small car park</a> <a href="https://maps.app.goo.gl/wWujVerD8aPybsZk6"> or street parking nearby</a>. Otherwise you can park at <a href="https://maps.app.goo.gl/Kb4xfeyhFeZK9z7f7"> Manor park</a> or in town centre.</p>
+  <p> Parking is limited near our house, there is a <a href="https://maps.app.goo.gl/AFxA2ZwbJrud6p197"> small car park</a> or <a href="https://maps.app.goo.gl/wWujVerD8aPybsZk6"> street parking nearby</a>. Otherwise you can park at <a href="https://maps.app.goo.gl/Kb4xfeyhFeZK9z7f7"> Manor park</a> or in town centre.</p>
 
 
 <h1>Accommodation</h1>
