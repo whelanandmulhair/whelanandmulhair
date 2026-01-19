@@ -28,11 +28,10 @@ layout: default
 <p>Fiona will wear summer dress, Peter will wear suit & no tie, you can wear whatever makes you happy! The reception is in a pub, so is pretty chill.</p>
 
 <h1>Gifts</h1>
-<p>Please do not give us any gifts. If you wish to give something you can donate to <a href="https://thebraintumourcharity.org/donate"> The Brain Tumour Charity</a> or <a href="https://www.reubensretreat.org/get-involved/donate/donation-form/"> Reubens retreat</a> on our behalf (or any other charity of your choice).</p>
+<p>Please do not give us any gifts. If you wish to give something you can donate to <a href="https://thebraintumourcharity.org/donate"> The Brain Tumour Charity</a> or <a href="https://www.reubensretreat.org/get-involved/donate/donation-form/"> Reuben's retreat</a> on our behalf (or any other charity of your choice).</p>
 
 <h3>Any questions? Email us: whelanandmulhair@yahoo.com</h3>
 
 </body>
 
-#![image](assets/images/invite.png)
-<img align = "right" src="/assets/images/invite.png" alt="drawing" width="220"/>
+<img align = "centre" src="/assets/images/invite.png" alt="drawing" width="600"/>
