@@ -21,7 +21,7 @@ layout: default
 
 <h1>Accommodation</h1>
 <p>Glossop is not a very large town, but there is accommodation available through b&bs (e.g. on booking.com) and a Travelodge hotel (~20 min walk from our house).</p>
-  <p> Alternatively, Manchester city is 30 mins by train from Glossop (every half hour; note last train is 10:52pm) and obviously has a lot more accommodation options.</p>
+  <p> Alternatively, Manchester is 30 mins by train from Glossop (every half hour; note last train is 10:52pm) and obviously has a lot more accommodation options.</p>
 
 
 <h1>Dress code</h1>
